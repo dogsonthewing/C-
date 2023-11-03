@@ -1,0 +1,14 @@
+C:\Users\Marajauni\Desktop\C#\PermissionNLevel\bin\Debug\net7.0\PermissionNLevel.exe
+C:\Users\Marajauni\Desktop\C#\PermissionNLevel\bin\Debug\net7.0\PermissionNLevel.deps.json
+C:\Users\Marajauni\Desktop\C#\PermissionNLevel\bin\Debug\net7.0\PermissionNLevel.runtimeconfig.json
+C:\Users\Marajauni\Desktop\C#\PermissionNLevel\bin\Debug\net7.0\PermissionNLevel.dll
+C:\Users\Marajauni\Desktop\C#\PermissionNLevel\bin\Debug\net7.0\PermissionNLevel.pdb
+C:\Users\Marajauni\Desktop\C#\PermissionNLevel\obj\Debug\net7.0\PermissionNLevel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marajauni\Desktop\C#\PermissionNLevel\obj\Debug\net7.0\PermissionNLevel.AssemblyInfoInputs.cache
+C:\Users\Marajauni\Desktop\C#\PermissionNLevel\obj\Debug\net7.0\PermissionNLevel.AssemblyInfo.cs
+C:\Users\Marajauni\Desktop\C#\PermissionNLevel\obj\Debug\net7.0\PermissionNLevel.csproj.CoreCompileInputs.cache
+C:\Users\Marajauni\Desktop\C#\PermissionNLevel\obj\Debug\net7.0\PermissionNLevel.dll
+C:\Users\Marajauni\Desktop\C#\PermissionNLevel\obj\Debug\net7.0\refint\PermissionNLevel.dll
+C:\Users\Marajauni\Desktop\C#\PermissionNLevel\obj\Debug\net7.0\PermissionNLevel.pdb
+C:\Users\Marajauni\Desktop\C#\PermissionNLevel\obj\Debug\net7.0\PermissionNLevel.genruntimeconfig.cache
+C:\Users\Marajauni\Desktop\C#\PermissionNLevel\obj\Debug\net7.0\ref\PermissionNLevel.dll

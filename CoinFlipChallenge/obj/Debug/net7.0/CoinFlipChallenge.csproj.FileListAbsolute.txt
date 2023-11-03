@@ -1,0 +1,14 @@
+C:\Users\Marajauni\Desktop\C#\CoinFlipChallenge\bin\Debug\net7.0\CoinFlipChallenge.exe
+C:\Users\Marajauni\Desktop\C#\CoinFlipChallenge\bin\Debug\net7.0\CoinFlipChallenge.deps.json
+C:\Users\Marajauni\Desktop\C#\CoinFlipChallenge\bin\Debug\net7.0\CoinFlipChallenge.runtimeconfig.json
+C:\Users\Marajauni\Desktop\C#\CoinFlipChallenge\bin\Debug\net7.0\CoinFlipChallenge.dll
+C:\Users\Marajauni\Desktop\C#\CoinFlipChallenge\bin\Debug\net7.0\CoinFlipChallenge.pdb
+C:\Users\Marajauni\Desktop\C#\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marajauni\Desktop\C#\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.AssemblyInfoInputs.cache
+C:\Users\Marajauni\Desktop\C#\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.AssemblyInfo.cs
+C:\Users\Marajauni\Desktop\C#\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Marajauni\Desktop\C#\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.dll
+C:\Users\Marajauni\Desktop\C#\CoinFlipChallenge\obj\Debug\net7.0\refint\CoinFlipChallenge.dll
+C:\Users\Marajauni\Desktop\C#\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.pdb
+C:\Users\Marajauni\Desktop\C#\CoinFlipChallenge\obj\Debug\net7.0\CoinFlipChallenge.genruntimeconfig.cache
+C:\Users\Marajauni\Desktop\C#\CoinFlipChallenge\obj\Debug\net7.0\ref\CoinFlipChallenge.dll
